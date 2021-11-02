@@ -16,7 +16,7 @@ $(document).ready(function () {
 				));
 		}
 
-		let oldTask = $('#newTask').val(''); /* para borrar los valores de newTask despues de haberlos añadido en la lista de tareas*/
+		$('#newTask').val(''); /* para borrar los valores de newTask despues de haberlos añadido en la lista de tareas*/
 
 	})
 
