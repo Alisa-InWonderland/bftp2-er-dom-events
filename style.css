@@ -12,6 +12,7 @@ body {
 .card {
 	display: flex;
 	flex-direction: column;
+	background-color: #fdfafa;
 	max-width: 600px;
 	margin: 50px auto;
 	padding: 25px;
@@ -43,6 +44,7 @@ body {
 	height: 540px;
 	width: 500px;
 	margin: 20px auto;
+	border: 1px solid #b4b4b4;
 	border-radius: 5px;
 }
 
